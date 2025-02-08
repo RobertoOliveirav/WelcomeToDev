@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @RobertoOliveira
 - 👀 I'm interested in new projects
-- 🌱 I have experience with PHYTON, HTML, CSS and C#
+- 🌱 I have experience with PHYTON, JAVA and C#
 - 💞️ I'm looking to collaborate on automations and new projects
 - 📫 How to contact me send an email to jose.beto2437@gmail.com
 - 😄 Pronouns: He/him
